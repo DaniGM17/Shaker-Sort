@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
  *
  * @author dania
  */
-public class ShakerSort {
+public class shakerSort {
 
     public static BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));
     public static String entrada;
